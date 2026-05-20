@@ -9,15 +9,15 @@ import { institutionalHighlights, values } from '../data/content'
   <div>
     <SecaoDestaque
       eyebrow="Companhia"
-      title="História, missão, visão e valores apresentados de forma amigável"
-      text="A página institucional organiza a identidade corporativa em seções claras, enfatizando a trajetória da empresa, seus compromissos e sua visão de futuro."
+      title="História, missão, visão e valores"
+      text="A Petro Energy atua com presença consolidada no setor, foco em desempenho operacional e compromisso com crescimento sustentável de longo prazo."
     />
 
     <section class="container section-block">
       <IntroducaoSecao
         eyebrow="Quem somos"
-        title="Presença consolidada no setor, com leitura direta e acolhedora"
-        text="Os blocos abaixo estruturam a narrativa institucional sem perder objetividade, ajudando o visitante a entender a marca rapidamente."
+        title="Presença consolidada no setor"
+        text="Uma companhia de capital aberto com atuação integrada em exploração, logística e distribuição de energia."
       />
 
       <div class="card-grid">
@@ -35,7 +35,7 @@ import { institutionalHighlights, values } from '../data/content'
       <IntroducaoSecao
         eyebrow="Valores"
         title="Princípios que orientam cada decisão"
-        text="A comunicação visual reforça credibilidade, responsabilidade e colaboração entre operação, mercado e sociedade."
+        text="Segurança, integridade, excelência técnica e responsabilidade socioambiental."
       />
 
       <ul class="values-list">

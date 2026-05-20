@@ -11,7 +11,7 @@ import { featuredPosts, impactNumbers, institutionalHighlights } from '../data/c
     <SecaoDestaque
       eyebrow="Energia em movimento"
       title="Uma companhia de escala global com foco em confiabilidade, engenharia e impacto positivo"
-      text="A Petro Energy apresenta sua atuação com linguagem clara, visão corporativa e destaque para projetos que fortalecem a segurança energética e o desenvolvimento das regiões onde opera."
+      text="A Petro Energy destaca projetos estratégicos, resultados operacionais e investimentos que fortalecem sua presença no setor de energia."
     >
       <div class="hero-actions">
         <a class="button-primary" href="#ultimos-posts">Ver últimos posts</a>
@@ -30,8 +30,8 @@ import { featuredPosts, impactNumbers, institutionalHighlights } from '../data/c
     <section class="container section-block">
       <IntroducaoSecao
         eyebrow="Destaques"
-        title="Uma narrativa institucional que combina escala industrial e gestão responsável"
-        text="Na home, a companhia reforça sua presença no setor e organiza os principais atributos da marca em blocos objetivos e de leitura fluida."
+        title="Escala industrial, gestão responsável e visão de futuro"
+        text="Atuação integrada, disciplina operacional e investimentos contínuos em infraestrutura e inovação."
       />
 
       <div class="card-grid">
@@ -49,7 +49,7 @@ import { featuredPosts, impactNumbers, institutionalHighlights } from '../data/c
       <IntroducaoSecao
         eyebrow="Últimos posts"
         title="Os três projetos mais recentes visíveis logo na página inicial"
-        text="Acompanhe os destaques mais recentes da companhia em exploração, infraestrutura e inovação."
+        text="Infraestrutura, exploração e inovação em destaque."
       />
 
       <div class="post-grid">
